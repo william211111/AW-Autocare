@@ -1,4 +1,4 @@
-// AW Detailing — basisfunktioner
+// AW Autocare — basisfunktioner
 
 document.addEventListener("DOMContentLoaded", () => {
 
