@@ -1,4 +1,4 @@
-// VV Detailing — basisfunktioner
+// AW Detailing — basisfunktioner
 
 document.addEventListener("DOMContentLoaded", () => {
 
